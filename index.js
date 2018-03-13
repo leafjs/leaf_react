@@ -1,5 +1,4 @@
 "use strict";
-require("any-promise/register")("bluebird");
 
 const logger = require("debug")("leaf:mw:react");
 const react = require('koa-react-view');
